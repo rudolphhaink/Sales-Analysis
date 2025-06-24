@@ -7,7 +7,6 @@ This project analyzes a synthetic sales dataset to uncover key insights and tren
 - Perform exploratory data analysis (EDA) to understand sales distribution and profitability.
 - Identify top-performing regions, products, and sales representatives.
 - Visualize trends and patterns over time.
-- Build a predictive model to forecast future sales (optional).
 - Create an interactive Tableau dashboard to present key metrics.
 
 ## Dataset
@@ -16,7 +15,6 @@ This project analyzes a synthetic sales dataset to uncover key insights and tren
 - Synthetic data generated to mimic real-world sales scenarios.
 
 ## Technologies Used
-- **SQL:** Query and aggregate sales data for business insights.
 - **Python:** Data cleaning, analysis, visualization (libraries used: pandas, matplotlib, seaborn).
 - **Tableau:** Interactive dashboard for presenting sales performance.
 
