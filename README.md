@@ -20,4 +20,6 @@ This project analyzes a synthetic sales dataset to uncover key insights and tren
 - **Python:** Data cleaning, analysis, visualization (libraries used: pandas, matplotlib, seaborn).
 - **Tableau:** Interactive dashboard for presenting sales performance.
 
-## Repository Structure
+## 👤 Author
+
+Rudolph Haink
