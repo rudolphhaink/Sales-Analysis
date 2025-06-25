@@ -1,7 +1,7 @@
 # Sales Performance Analysis Portfolio
 
 ## Overview
-This project analyzes a synthetic sales dataset to uncover key insights and trends in sales performance across regions, product categories, and sales representatives. It showcases skills in **SQL**, **Python** (data analysis and visualization), and **Tableau** dashboarding.
+This project analyzes a synthetic sales dataset to uncover key insights and trends in sales performance across regions, product categories, and sales representatives. It showcases skills in **Python** (data analysis and visualization) and **Tableau** dashboarding.
 
 ## Project Goals
 - Perform exploratory data analysis (EDA) to understand sales distribution and profitability.
