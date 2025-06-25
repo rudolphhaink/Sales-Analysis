@@ -24,4 +24,5 @@ This project analyzes a synthetic sales dataset to uncover key insights and tren
 
 ## 👤 Author
 
-Rudolph Haink
+Rudolph Haink  
+[LinkedIn](https://www.linkedin.com/in/rudolph-haink-a5454564/)
