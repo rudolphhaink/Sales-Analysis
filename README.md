@@ -18,6 +18,10 @@ This project analyzes a synthetic sales dataset to uncover key insights and tren
 - **Python:** Data cleaning, analysis, visualization (libraries used: pandas, matplotlib, seaborn).
 - **Tableau:** Interactive dashboard for presenting sales performance.
 
+[Tableau Dashboard](https://public.tableau.com/app/profile/rudolph.haink/viz/SalesDataPortfolio_17507677939160/Dashboard1)
+[Jupyter Notebook](https://github.com/rudolphhaink/Sales-Analysis-Portfolio/tree/main#:~:text=sales%2Danalysis%2Dportfolio.ipynb)
+[Data](https://github.com/rudolphhaink/Sales-Analysis-Portfolio/tree/main#:~:text=19%20hours%20ago-,sales_data.csv,-Add%20files%20via)
+
 ## 👤 Author
 
 Rudolph Haink
